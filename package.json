@@ -1,0 +1,26 @@
+{
+  "name": "Discord-Streaming-Rpc",
+  "version": "1.0.0",
+  "description": "## Preview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDarkShadoow/Discord-Streaming-Rpc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDarkShadoow/Discord-Streaming-Rpc/issues"
+  },
+  "homepage": "https://github.com/MrDarkShadoow/Discord-Streaming-Rpc#readme",
+  "dependencies": {
+    "discord.js-selfbot-v11": "^11.5.1",
+    "discordrpcgenerator": "^1.2.0",
+    "express": "^4.18.1"
+  }
+}
