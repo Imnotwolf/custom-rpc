@@ -9,15 +9,15 @@ const rpc = require("discordrpcgenerator");
 
 
 
-let NAME = "Youtube"
-let DETAILS = "watch the new video"
-let STATE = "subscribe"
-let URL = "https://www.youtube.com/watch?v=KkKfGfp71t4&ab_channel=NotOm07"
-let APPID = "937206962788106240"
-let LARGEIMG = "click"
-let LARGETEXT = "click the sub button ඞ"
-let SMALLIMG = "python"
-let SMALLTEXT = "2"
+let NAME = "Name"
+let DETAILS = "Details"
+let STATE = "State"
+let URL = ""
+let APPID = ""
+let LARGEIMG = "Id Img"
+let LARGETEXT = "Large Text"
+let SMALLIMG = "Id Img"
+let SMALLTEXT = "Id Img"
 
 
 
